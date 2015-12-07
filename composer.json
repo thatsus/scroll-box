@@ -1,0 +1,9 @@
+{
+    "name": "thatsus/scroll-box",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/thatsus/scroll-box.git"
+        }
+    ]
+}
